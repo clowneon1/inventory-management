@@ -1,1 +1,1 @@
-# microservices-new
+# inventory-management
